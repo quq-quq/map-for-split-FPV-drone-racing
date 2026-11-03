@@ -183852,7 +183852,7 @@ GameObject:
   - component: {fileID: 613344427}
   - component: {fileID: 613344426}
   m_Layer: 0
-  m_Name: EscalatorLight
+  m_Name: TransferCorridorLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -183867,7 +183867,7 @@ Transform:
   m_GameObject: {fileID: 613344424}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 257, y: -7, z: -164}
+  m_LocalPosition: {x: 203.50125, y: 8.5, z: -164.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -195756,7 +195756,7 @@ GameObject:
   - component: {fileID: 646206291}
   - component: {fileID: 646206290}
   m_Layer: 0
-  m_Name: TransferCorridorLight
+  m_Name: StairsLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -195771,7 +195771,7 @@ Transform:
   m_GameObject: {fileID: 646206288}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 249.01244, y: -2.26, z: -171.83508}
+  m_LocalPosition: {x: 270.17874, y: -10.8655, z: -150.56926}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -209742,7 +209742,7 @@ GameObject:
   - component: {fileID: 691787234}
   - component: {fileID: 691787233}
   m_Layer: 0
-  m_Name: TransferCorridorLight
+  m_Name: StairsLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -209757,7 +209757,7 @@ Transform:
   m_GameObject: {fileID: 691787231}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 240.87262, y: -0.7827349, z: -169.97473}
+  m_LocalPosition: {x: 263.10764, y: -5.2580004, z: -157.64035}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -222761,7 +222761,7 @@ GameObject:
   - component: {fileID: 740501170}
   - component: {fileID: 740501169}
   m_Layer: 0
-  m_Name: EscalatorLight
+  m_Name: TransferCorridorLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -222776,7 +222776,7 @@ Transform:
   m_GameObject: {fileID: 740501167}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 273, y: -13.5, z: -148}
+  m_LocalPosition: {x: 219.57129, y: 8.5, z: -169.7883}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -365071,7 +365071,7 @@ Transform:
   m_GameObject: {fileID: 1212821161}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 197.47786, y: 6.6000004, z: -164.5}
+  m_LocalPosition: {x: 227.56136, y: 8.5, z: -172.68811}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -386027,7 +386027,7 @@ Transform:
   m_GameObject: {fileID: 1282574704}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 206.40938, y: 5.865038, z: -164.5}
+  m_LocalPosition: {x: 235.55142, y: 8.5, z: -175.58792}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -442536,7 +442536,7 @@ GameObject:
   - component: {fileID: 1475351165}
   - component: {fileID: 1475351164}
   m_Layer: 0
-  m_Name: EscalatorLight
+  m_Name: TransferCorridorLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -442551,7 +442551,7 @@ Transform:
   m_GameObject: {fileID: 1475351162}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 265, y: -10.5, z: -156}
+  m_LocalPosition: {x: 211.58122, y: 8.5, z: -166.88849}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -524966,7 +524966,7 @@ GameObject:
   - component: {fileID: 1761394512}
   - component: {fileID: 1761394511}
   m_Layer: 0
-  m_Name: TransferCorridorLight
+  m_Name: StairsLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -524981,7 +524981,7 @@ Transform:
   m_GameObject: {fileID: 1761394509}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 224.09947, y: 2.5392995, z: -164.5}
+  m_LocalPosition: {x: 248.96544, y: 5.9569993, z: -171.78256}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -541770,7 +541770,7 @@ Transform:
   m_GameObject: {fileID: 1819048843}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 215.25443, y: 4.2021685, z: -164.5}
+  m_LocalPosition: {x: 243.30858, y: 8.5, z: -177.43942}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -566385,7 +566385,7 @@ GameObject:
   - component: {fileID: 1910172576}
   - component: {fileID: 1910172575}
   m_Layer: 0
-  m_Name: TransferCorridorLight
+  m_Name: StairsLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -566400,7 +566400,7 @@ Transform:
   m_GameObject: {fileID: 1910172573}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 232.51064, y: 0.8781829, z: -167.09055}
+  m_LocalPosition: {x: 256.03656, y: 0.34949923, z: -164.71146}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
