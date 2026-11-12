@@ -112,3 +112,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Greybox copy for Blender (Tools > Blender > Export Greybox to .blend), regenerated on demand
+/[Ee]xports/
